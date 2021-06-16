@@ -1,2 +1,2 @@
 # go-struct
-Go: The Complete Developer's Guide (Golang)section 4
+Go: The Complete Developer's Guide (Golang)**section 4**
